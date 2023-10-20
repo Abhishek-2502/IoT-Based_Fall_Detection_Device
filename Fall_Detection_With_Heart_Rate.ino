@@ -19,10 +19,10 @@ int angleChange=0;
 
 // WiFi network info.
 const char *ssid = "DIGISOL"; // Enter your Wi-Fi Name
-const char *pass = "29650606"; // Enter your Wi-Fi Password
+const char *pass = "29653240606"; // Enter your Wi-Fi Password
 void send_event(const char *event);
 const char *host = "maker.ifttt.com";
-const char *privateKey = "oQ7LAPCPRn51FxVrxDlP4NdTz-DsoY9qpKPgjIu7Rp4";
+const char *privateKey = "oQ7LAP324CPRn51FxVr423xDlP4NdTz-DsoY9q324pKPgjIu7Rp4";
 
 //MAX30500
 PulseOximeter pox;
