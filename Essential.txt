@@ -1,0 +1,10 @@
+Board : NodeMCU ESP8060
+Sensor: MPU6050 (GyroScope Accelerometer)
+Sensor: MAX10300 (Pulse Rate and Oximeter)
+
+https://ifttt.com/explore
+Mobile App Needed: IFTTT
+Write Number Like this: 918650156597 (91 is country Code)
+
+URL Sending with values Example:
+https://maker.ifttt.com/trigger/{event}/with/key/{webhooks_key}?value1=value1&value2=value2&value3=value3
