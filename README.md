@@ -11,10 +11,9 @@ This project utilizes NodeMCU, MPU6050, and MAX30100 sensors to create a fall de
 
 ## Components
 
-- NodeMCU (ESP8266) board
+- NodeMCU (ESP8266) board (Wifi Enabed)
 - MPU6050 accelerometer and gyroscope sensor
 - MAX30100 pulse oximeter sensor
-- Wi-Fi connectivity module
 - Power supply (USB or battery)
 
 ## Getting Started
